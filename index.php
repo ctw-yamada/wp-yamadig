@@ -11,7 +11,7 @@
  *
  * @package Yamadig
  */
-
+require_once __DIR__.'/bootstrap.php';
 get_header(); ?>
 
 	<div id="primary" class="content-area">
